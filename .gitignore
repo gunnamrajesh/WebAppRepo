@@ -6,3 +6,7 @@
 /WebApp/.vs/WebApp/v16
 /WebApp/WebApp/bin/Debug/netcoreapp3.0
 /WebApp/WebApp/obj
+/.vs
+/WebApp/packages
+/WebApp/WebApp.Tests/bin/Debug/netcoreapp3.0
+/WebApp/WebApp.Tests/obj
