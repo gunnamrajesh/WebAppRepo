@@ -4,8 +4,10 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
-
   <ItemGroup>
+    <Reference Include="CalculationSDK">
+      <HintPath>..\..\..\WebAppSDK\CalculationSDK\bin\Debug\netstandard2.0\CalculationSDK.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
