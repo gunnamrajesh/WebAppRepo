@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Reference Include="CalculationSDK">
-      <HintPath>..\..\..\WebAppSDK\CalculationSDK\bin\Debug\netstandard2.0\CalculationSDK.dll</HintPath>
+      <HintPath>..\..\assemblies\CalculationSDK.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -10,3 +10,5 @@
 /WebApp/packages
 /WebApp/WebApp.Tests/bin/Debug/netcoreapp3.0
 /WebApp/WebApp.Tests/obj
+/assemblies
+/WebApp/.vs/WebApp/DesignTimeBuild
