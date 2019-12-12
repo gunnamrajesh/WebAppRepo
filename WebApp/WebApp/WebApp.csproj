@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="CalculationSDK">
-      <HintPath>..\..\assemblies\CalculationSDK.dll</HintPath>
-    </Reference>
+    <PackageReference Include="CalculationSDK" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
